@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://nextjs.org/conf/tickets/oct21/SwitchfootDev?s=1
+[Interested in learning more about Next.js? Claim your ticket from October 26, 2021 begining at 9am pacific]( https://nextjs.org/conf/tickets/oct21/SwitchfootDev?s=1)
 
 <!--
 **SwitchfootDev/switchfootdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
