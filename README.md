@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...website development for Engine228 LLC
+- 🌱 I’m currently learning ...how to become a cybersecurity expert at Denver University
+- 📫 How to reach me: ... ginaortega.co@gmail.com
+- 😄 Pronouns: ...she/her 
+- ⚡ Fun fact: ...I have a passion for learning and building but an even bigger passion for composing music.
 
 
 <!--
